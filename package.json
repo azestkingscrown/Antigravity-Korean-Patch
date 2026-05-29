@@ -1,0 +1,20 @@
+{
+  "name": "antigravity-korean-patch",
+  "version": "1.0.0",
+  "description": "Unofficial Korean Localization Patch for Antigravity GUI",
+  "main": "patch.js",
+  "scripts": {
+    "patch": "node patch.js"
+  },
+  "dependencies": {
+    "@electron/asar": "^3.2.9"
+  },
+  "keywords": [
+    "antigravity",
+    "korean",
+    "patch",
+    "localization"
+  ],
+  "author": "Open Source Community",
+  "license": "MIT"
+}
