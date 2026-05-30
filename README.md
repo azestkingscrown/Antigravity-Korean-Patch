@@ -1,4 +1,4 @@
-# Antigravity GUI Korean Patch (비공식 한글 패치)
+# Antigravity 2.0 Korean Patch (비공식 한글 패치)
 
 Antigravity GUI 애플리케이션을 한국어로 사용할 수 있게 해주는 비공식 크로스 플랫폼 한글 패치입니다.
 
